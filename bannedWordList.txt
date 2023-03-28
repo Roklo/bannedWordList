@@ -4,5 +4,4 @@ whitch
 stabile
 -00-00
 00*Month
-TBA
 tba
