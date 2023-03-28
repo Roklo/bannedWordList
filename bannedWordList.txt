@@ -5,3 +5,7 @@ stabile
 -00-00
 00*Month
 tba
+not_started
+###
+tbr_
+hold_
