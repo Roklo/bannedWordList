@@ -6,9 +6,10 @@ stabile
 -00-00
 00*Month
 tba
+tbc
+tbr_
 not_started
 ###
-tbr_
 hold_
 wthat
 Vessel*tbn
@@ -26,3 +27,5 @@ handed/*sent
 ???
 Submission*#
 removed*form
+trials*report
+meter
