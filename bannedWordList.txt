@@ -30,3 +30,4 @@ removed*form
 annual*trials*report*
 meter
 fig_ok
+FIG*OK
