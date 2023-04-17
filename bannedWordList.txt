@@ -27,6 +27,6 @@ handed/*sent
 Submission*#
 removed*form
 annual*trials*report*
-meter
+*meter*
 fig_ok
 FIG*OK
