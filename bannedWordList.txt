@@ -30,3 +30,4 @@ annual*trials*report*
 *meter*
 fig_ok
 FIG*OK
+*wath*
