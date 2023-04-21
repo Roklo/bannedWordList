@@ -31,3 +31,4 @@ annual*trials*report*
 fig_ok
 FIG*OK
 *wath*
+loose
