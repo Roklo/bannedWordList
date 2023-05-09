@@ -15,7 +15,7 @@ Vessel*tbn
 of*month*
 the*00
 Location,*Country
-Company*Name*
+Company*Name
 A000
 Axxx
 Location,*00 
@@ -26,7 +26,7 @@ handed/*sent
 ???
 Submission*#
 removed*form
-annual*trials*report*
+annual*trials*report
 *meter
 fig_ok
 FIG*OK
