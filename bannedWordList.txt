@@ -11,7 +11,8 @@ not_started
 ###
 hold_
 hold:
-*hold*
+on_hold*
+_hold*
 wthat
 Vessel*tbn
 of*month*
