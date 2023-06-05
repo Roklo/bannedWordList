@@ -35,6 +35,5 @@ fig_ok
 FIG*OK
 *wath*
 loose
-with the mouse
-OSM*Offshore*AS
+with*the*mouse
 OSM*Offshore
