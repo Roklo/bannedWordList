@@ -8,6 +8,7 @@ tba
 tbc
 tbr_
 not_started
+not*started
 ###
 hold_
 hold:
