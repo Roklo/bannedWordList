@@ -6,7 +6,7 @@ stabile
 00*Month
 tba
 tbc
-tbd
+*tbd
 tbr_
 not_started
 not*started
