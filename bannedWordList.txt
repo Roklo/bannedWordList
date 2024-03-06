@@ -39,7 +39,6 @@ FIG*OK
 *wath*
 loose
 with*the*mouse
-witnessed*by*Auditor
 OSM*Offshore
 OSM*Thone
 chapter*0
