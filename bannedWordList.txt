@@ -51,3 +51,4 @@ trail
 *wich*
 color
 *bride*
+cric
