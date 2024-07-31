@@ -7,7 +7,6 @@ stabile
 tba
 tbc
 *tbd
-tbd
 tbr_
 *tbr
 tbr
