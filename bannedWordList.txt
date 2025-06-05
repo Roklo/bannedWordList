@@ -70,3 +70,4 @@ see*comment*in*chapter*3
 memberamdips
 *carne*
 analyses
+*bot*
