@@ -8,9 +8,7 @@ tba
 tbc
 *tbd
 tbr_
-*tbr
-tbr*
--tbr
+*tbr*
 not_started
 not*started
 ###
